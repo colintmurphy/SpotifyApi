@@ -1,7 +1,8 @@
 # SpotifyApi
 
 ## About
-- this is a skeleton project for those struggling to get data from Spotify's API using Swift
+- This is a skeleton project for those struggling to get data from Spotify's API using Swift
+- Skeleton code is used to help iOS developers get pushed in the right direction when fetching data, writing data, getting Access Token, and getting Refresh Token from Spotify's API
 - You can see its implementation on the app https://apps.apple.com/us/app/favorites-for-spotify/id1523134103
 
 ## Setup

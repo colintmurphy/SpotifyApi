@@ -11,6 +11,13 @@
 - Set scopes to retrieve certain information: ie, "user-top-read" is required for reading user's top artists/tracks data
 - Client ID and Secret ID on Spotify's Developer site: https://developer.spotify.com/documentation/general/guides/app-settings/
 
+## Links
+- Spotify Developer Dashboard: https://developer.spotify.com/dashboard/login
+- Spotify Authoration Guide: https://developer.spotify.com/documentation/general/guides/authorization-guide/
+- Spotify API Reference: https://developer.spotify.com/documentation/web-api/reference/
+- Base 64 encoder: https://www.base64encode.org
+- URL encoder: https://www.urlencoder.org
+
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
